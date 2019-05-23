@@ -1,5 +1,5 @@
 ---
-title: Real-time editing
+title: Coffee With A Future
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
@@ -30,8 +30,6 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-  - image: /img/about-direct-sourcing.jpg
-    text: Crusty old man for sale. 3 euros.
 values:
   heading: Our values
   text: >-
