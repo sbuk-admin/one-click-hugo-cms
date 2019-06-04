@@ -1,7 +1,7 @@
 ---
 title: Fattty Dragon
 subtitle: This is the site of fatty dragon
-image: /img/timthumb.jpg
+image: /img/aaaa.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
