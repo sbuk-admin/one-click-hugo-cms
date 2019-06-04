@@ -1,5 +1,5 @@
 ---
-title: Fattty Dragon
+title: Fatty Dragon
 subtitle: This is the site of fatty dragon
 image: /img/aaaa.jpg
 blurb:
