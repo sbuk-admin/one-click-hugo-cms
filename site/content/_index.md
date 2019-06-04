@@ -1,7 +1,7 @@
 ---
-title: Coffee With A Future
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Fattty Dragon
+subtitle: This is the site of fatty dragon
+image: /img/timthumb.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
