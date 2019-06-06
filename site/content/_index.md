@@ -4,6 +4,7 @@ subtitle: This is the site of fatty dragon
 image: /img/samoo.jpg
 blurb:
   heading: Why Kaldi?
+  subheading: Subheading
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
